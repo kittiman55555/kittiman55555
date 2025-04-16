@@ -29,7 +29,7 @@ I'm a DevOps engineer with a focus on backend development. I'm passionate about 
 
 ## 📫 How to Reach Me
 - Email: [kittisitthichai30084@gmail.com](mailto:kittisitthichai30084@gmail.com)
-- LinkedIn: [linkedin.com/in/kitti-sitthchai-3b8053148](https://www.linkedin.com/in/kitti-sitthchai-3b8053148)
+- LinkedIn: [linkedin.com/in/kitti-sitthchai](https://www.linkedin.com/in/kitti-sitthchai-3b8053148)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kittiman55555&show_icons=true&theme=radical)
