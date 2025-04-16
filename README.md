@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**kittiman55555/kittiman55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps engineer with a focus on backend development. I'm passionate about building scalable and resilient systems using modern cloud technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Development
+- **TypeScript** - My primary programming language
+- **Node.js** - Runtime environment for server-side applications
+- **API Development** - RESTful and GraphQL
+
+### DevOps & Cloud
+- **Kubernetes (k8s)** - Container orchestration
+- **Google Cloud Platform** - Cloud infrastructure
+- **Cloud Build** - CI/CD pipeline automation
+- **Docker** - Containerization
+
+## 🔍 What I Do
+- Design and implement scalable backend architectures
+- Create and maintain CI/CD pipelines
+- Automate infrastructure deployment and management
+- Implement monitoring and observability solutions
+- Container orchestration and microservices architecture
+
+## 🌱 Currently Learning
+- Enhancing security practices in Kubernetes environments
+- Advanced performance optimization techniques
+- Exploring serverless architectures
+
+## 📫 How to Reach Me
+- Email: [kittisitthichai30084@gmail.com](mailto:kittisitthichai30084@gmail.com)
+- LinkedIn: [linkedin.com/in/kitti-sitthchai-3b8053148](https://www.linkedin.com/in/kitti-sitthchai-3b8053148)
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kittiman55555&show_icons=true&theme=radical)
+
+---
+
